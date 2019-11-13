@@ -1,0 +1,13 @@
+body {
+
+}
+
+textarea {
+  border-radius: 10px;
+  border: solid 1px lightgrey;
+}
+
+#date {
+  border-radius: 3px;
+  border: solid 1px lightgrey;
+}
